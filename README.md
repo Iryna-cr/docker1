@@ -15,7 +15,7 @@ docker ps -a
 ## - Видалити контейнер і образ.
   Використані команди:
   
-  docker rm 21eb2ace3e09
+  docker rm 
   
   docker rmi hello-world
 
