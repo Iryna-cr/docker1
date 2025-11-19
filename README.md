@@ -1,4 +1,4 @@
-# docker завдання 1
+# docker Завдання 1
 
 ## - Запустити базовий контейнер:
 docker run hello-world
@@ -16,6 +16,7 @@ docker ps -a
   Використані команди:
   
   docker rm 21eb2ace3e09
+  
   docker rmi hello-world
 
 ### Результат
